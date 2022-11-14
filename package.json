@@ -1,8 +1,10 @@
 {
   "name": "example-redoc-githubpages",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:mpg-masaki-nagasawa/example-redoc-githubpages.git",
   "author": "mpg-masaki-nagasawa <masaki.nagasawa@medpeer.co.jp>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@redocly/cli": "^1.0.0-beta.112"
+  }
 }
