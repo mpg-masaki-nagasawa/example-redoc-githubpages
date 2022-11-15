@@ -17,7 +17,7 @@ tags:
   - name: User
     description: Operations about users.
   - name: Tag
-    description: This is a tag description.
+    description: test
 servers:
   - url: 'https://{tenant}/api/v1'
     variables:
